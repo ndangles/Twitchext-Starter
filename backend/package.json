@@ -1,0 +1,11 @@
+{
+  "name": "twitchext-starter",
+  "version": "1.0.0",
+  "description": "Starter project for building Twitch Extensions",
+  "main": "app.js",
+  "author": "Nicholas Dangles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
