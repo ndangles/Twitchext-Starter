@@ -26,15 +26,15 @@ Setup
 
 1. git clone https://github.com/ndangles/Twitchext-Starter.git
 
-<br><br>
+
 
 2. cd Twitchext-Starter/backend/
 
-<br><br>
+
 
 3. npm install
 
-<br><br>
+
 
 4. Create a Twitch extension and retrieve your extension's client_id, client_secret and jwt_secret. Then fill those values into the appropriate variables.
 
@@ -42,6 +42,7 @@ Setup
   - jwt_secret -> Twitchext-Starter/backend/config/variables.js
 
   Note: client_secret is only needed if you want to use the Oauth scopes. There is a route for this built into the project but this route path (https://localhost:8080/oauth) must also be configured in Twitch's console.
+
 
 
 5. 'node app.js' in Twitchext-Starter/backend/ directory
