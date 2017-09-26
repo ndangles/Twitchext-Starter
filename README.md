@@ -13,12 +13,13 @@ What's Included?
     * Necessary CSS files (viewer.css, config.css, etc.)
     * Necessary HTML files (viewer.html, config.html, etc.)
 <br>
+
 - Backend
-  * Folder structure
-  * HTTPS Express node server
-  * Test routes with working examples in Twitchext-Starter/backend/api/routes/main.js
-  * Test SSL Certs for HTTPS (required by Twitch) -> Twitchext-Starter/backend/certs
-  * Script to generate your own SSL certs -> Twitchext-Starter/backend/certs/generate-test-certs.sh
+    * Folder structure
+    * HTTPS Express node server
+    * Test routes with working examples in Twitchext-Starter/backend/api/routes/main.js
+    * Test SSL Certs for HTTPS (required by Twitch) -> Twitchext-Starter/backend/certs
+    * Script to generate your own SSL certs -> Twitchext-Starter/backend/certs/generate-test-certs.sh
 
 Setup
 ------------

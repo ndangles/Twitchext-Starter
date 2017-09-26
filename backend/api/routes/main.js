@@ -5,7 +5,7 @@ const custom_options = {
     "method":"path", //path
     "location": "../../config/variables"//location of file holding 'jwt_secret' variable, change value in file with your own
   },
-  "client_id": "some client id here", //extension client id, REPLACE WITH OWN
+  "client_id": "some client id here", //extension client id, REPLACE WITH YOUR OWN
   "client_secret": "some client secret here" // extension client secret, REPLACE WITH YOUR OWN
 }
 

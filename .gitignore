@@ -1,3 +1,1 @@
-**/*.key
-**/*.crt
 /backend/node_modules
