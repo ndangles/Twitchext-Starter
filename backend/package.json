@@ -6,6 +6,7 @@
   "author": "Nicholas Dangles",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "twitchext-helper": "^1.1.1"
   }
 }
